@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./Index.css";
+import "./index.css";
 import Form from "./components/Form";
 import Todolist from "./components/Todolist";
 
